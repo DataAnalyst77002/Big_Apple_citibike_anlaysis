@@ -5,7 +5,7 @@
 
 This "story" is published in [Tableau Public](https://public.tableau.com/profile/analyst77002#!/vizhome/Citi_Bike_WB/CitibikeAnalysis?publish=yes).  Please follow the [link](https://public.tableau.com/profile/analyst77002#!/vizhome/Citi_Bike_WB/CitibikeAnalysis?publish=yes).
 ____
-The premise of this project was to take New York's "citibike" data for 2018 and illustrate the data with Tableau. After collecting 2018's data from the "citibike" data site, I cleaned the CSV (comma separated values) and loaded them into a Python Jupyter Notebook.  I then merged the CSVs depending the number of records to one CSV file or a seasonal (summer, winter, fall, spring) CSV file to create my data source for Tableau. Once the data was uploaded to Tableau, I create multiple visualizations to answer the following questions:
+The premise of this project was to take New York's "citibike" data for 2018 and illustrate the data with Tableau. After collecting 2018's data from the "citibike" data site, I cleaned the CSV (comma separated values) and loaded them into a Python Jupyter Notebook.  I then merged the CSVs depending the number of records to one CSV file or a seasonal (summer, winter, fall, spring) CSV file to create my data source for Tableau. Once the data was uploaded to Tableau, I created multiple visualizations to answer the following questions:
 ____
 
 * How many trips have been recorded total during the chosen period?
